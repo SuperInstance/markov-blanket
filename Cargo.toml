@@ -1,0 +1,9 @@
+[package]
+name = "markov-blanket"
+version = "0.1.0"
+edition = "2021"
+description = "Markov blanket computation for agent boundary detection in probabilistic graphical models"
+repository = "https://github.com/SuperInstance/markov-blanket"
+license = "MIT"
+
+[dependencies]
